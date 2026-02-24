@@ -1,7 +1,9 @@
-![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+<div align="center">
+  <img width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZXd0cDN0Z3dlNHJ4ZmVpNGt3Z2o3NzBzc2Q1ZDc2azF4YThxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif"/>
+</div>
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
 <h3 align="center">A passionate software engineering student from Vietnam</h3>
-<img align="right" alt="Coding" width="300" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExazRyN2VvMXMwd3g3cDhycnB4ZTdvbTR5Mzk1bHVzbnY2ZzB0b3VwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.webp">
+<img align="right" alt="Coding" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlva2syb3Z4aDc4dXJzc2NwMzI4NHp0MzBpYTR1d2FhMGF1eXViciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GkD4U3VfiIbzcBhQNu/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nnguyenbon&label=Profile%20views&color=0e75b6&style=flat" alt="nnguyenbon" /> </p>
 
