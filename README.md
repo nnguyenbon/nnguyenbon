@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmgzZXd0cDN0Z3dlNHJ4ZmVpNGt3Z2o3NzBzc2Q1ZDc2azF4YThxOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9LZTcawH3mc8V2oUqk/giphy.gif"/>
+  <img width="800" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTA5NHp4NnlseXFhYTA1d3BiN2tkbWxrdjVic3p3d2FscXdsOXRzZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Basrh159dGwKY/giphy.gif"/>
 </div>
 <h1 align="center">Hi 👋, I'm Bao Nguyen</h1>
 <h3 align="center">A passionate software engineering student from Vietnam</h3>
